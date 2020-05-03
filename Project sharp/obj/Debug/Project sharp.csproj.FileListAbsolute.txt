@@ -1,0 +1,19 @@
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\obj\Debug\Project sharp.csprojAssemblyReference.cache
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\obj\Debug\Project_sharp.Form1.resources
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\obj\Debug\Project_sharp.Properties.Resources.resources
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\obj\Debug\Project sharp.csproj.GenerateResource.cache
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\obj\Debug\Project sharp.csproj.CoreCompileInputs.cache
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\bin\Debug\Project sharp.exe.config
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\bin\Debug\Project sharp.exe
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\bin\Debug\Project sharp.pdb
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\obj\Debug\Project sharp.exe
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\obj\Debug\Project sharp.pdb
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\bin\Debug\Microsoft.DirectX.dll
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\bin\Debug\Microsoft.DirectX.xml
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\obj\Debug\Project_sharp.Form_3D.resources
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\obj\Debug\Project sharp.csproj.CopyComplete
+D:\Study\Учеба\уирс.курсач\sharp\Project sharp\Project sharp\obj\Debug\Project_sharp.Form_BMP.resources
